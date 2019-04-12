@@ -1,0 +1,27 @@
+site_name: Transparencia Activa
+site_url: https://transparenciaba.github.io/guias-publicacion-ta/
+site_description: Esquemas de publicación de Transparencia Activa del Gobierno de la Ciudad Autónoma de Buenos Aires.
+site_author: Dirección General de Seguimiento de Organismos de Control y Acceso a la Información
+repo_url: https://github.com/transparenciaba/
+
+nav:
+    - Inicio: README.md
+    - Institucional: institucional.md
+    - Declaraciones Juradas: declaraciones-juradas.md
+    - Informes de Auditoría: informes-auditoria.md
+    - Presupuesto: presupuesto.md
+    - Nómina de autoridades y personal: nomina-personal.md
+    - Sueldos de Autoridades y Escala Salarial de Personal: sueldos.md
+    - Concursos de Personal: concursos.md
+    - Compras y Contrataciones de Obra Pública: obra-publica.md
+    - Compras y Contrataciones de Bienes y Servicios: compras-contrataciones-bienes-servicios.md
+    - Trámites y Servicios: tramites-servicios.md
+    - Gestión: gestion.md
+    - Normativa: normativa.md
+    - Habilitaciones: habilitaciones.md
+    - Permisos de obra: permisos.md
+    - Concesiones: concesiones.md
+    - Dictámenes Jurídicos e Informes Técnicos: dictamenes.md
+    - Cronogramas: cronogramas-publicacion.md
+
+theme: datosgcba_docs
