@@ -1,8 +1,8 @@
 # Guías de publicación de Transparencia Activa
 
-El propósito de este documento es darte herramientas para cumplir con las obligaciones de Transparencia Activa 
-establecidas por la Ley 104 de Acceso a la Información Pública. Acceder a la información es un derecho de todos 
-los ciudadanos y un compromiso de gobierno con la integridad de la gestión. 
+El propósito de este documento es darte herramientas para cumplir con las obligaciones de Transparencia Activa establecidas por la Ley 104 de Acceso a la Información Pública. Acceder a la información es un derecho de todos los ciudadanos y un compromiso de gobierno con la integridad de la gestión. 
+
+Para comprender qué información corresponde publicar a su área, sugerimos la lectura de este documento de orientación [click aquí](orientacion.md). Luego, puede puntualizar el detalle de cada ítem con las Guías.
 
 A continuación, compartimos el listado de Guías de Publicación disponibles hasta la fecha.
 

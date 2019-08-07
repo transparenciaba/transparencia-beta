@@ -23,5 +23,6 @@ nav:
     - Concesiones: concesiones.md
     - Dictámenes Jurídicos e Informes Técnicos: dictamenes.md
     - Cronogramas: cronogramas-publicacion.md
+    - Orientación: orientacion.md
 
 theme: datosgcba_docs
